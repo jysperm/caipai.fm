@@ -1,0 +1,37 @@
+channel:
+  title: '彩排'
+  subtitle: ''
+  link: 'https://caipai.fm'
+  feed: 'https://caipai.fm/feed.xml'
+  author: '王子亭'
+  email: 'feedback@caipai.fm'
+  description: '这个播客的名字叫「彩排」，意思是其中的每一期都是关于一篇文章或者一次演讲的「彩排」。'
+  language: 'zh-CN'
+  category: 'Technology'
+  image: 'https://jysperm.me/avatars/v5.png'
+  keywords:
+    - '彩排'
+    - '王子亭'
+    - '精子'
+
+episodes:
+  -
+    no: 1
+    guid: 1-Free-Software
+    title: '自由软件和自由软件许可证'
+    enclosure: 'https://dn-ye7uL3uc.qbox.me/6fae7988a59b4bb0.m4a'
+    length: 55300185
+    duration: 2922
+    publishedAt: '2016-08-02T15:20:15.255Z'
+    authors:
+      - '王子亭'
+    description: |
+      <p>我作为一个内容创作者和一名软件工程师、以及一个「政治正确」的人，一直比较关注著作权和自由软件相关的话题。为了准备本期播客我也翻看了中文互联网上大部分相关的资料，以及常见自由软件许可证的条款原文。</p>
+      <p>本期的内容包括：什么是自由软件、Copyleft、GPL 家族、什么是衍生作品、GPL 在法律上的现状、非 Copyleft 许可证、CC 许可证、CLA、著作权和专利的区别。</p>
+      <p>参考链接：</p>
+      <ul>
+        <li><a href="http://choosealicense.com/">choosealicense.com</a></li>
+        <li><a href="https://creativecommons.org/">creativecommons.org</a></li>
+        <li><a href="https://www.gnu.org/philosophy/free-sw.html">GNU: 什么是自由软件</a></li>
+        <li><a href="https://jysperm.me">王子亭</a></li>
+      </ul>
