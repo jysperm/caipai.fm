@@ -5,10 +5,13 @@ channel:
   feed: 'https://caipai.fm/feed.xml'
   author: '王子亭'
   email: 'feedback@caipai.fm'
-  description: '这个播客的名字叫「彩排」，意思是其中的每一期都是关于一篇文章或者一次演讲的「彩排」。'
+  description: |
+    这个播客的名字叫「彩排」，意思是其中的每一期都是关于一篇文章或者一次演讲的「彩排」。
+    你可以在播客客户端中输入 https://caipai.fm/feed.xml 来订阅，或者你也可以在 iTunes 上搜索「彩排」。
+    有任何想说的话都可以向 feedback@caipai.fm 发送邮件反馈，在试播期间我们希望听到所有有关播客内容的意见，以及关于录音或剪辑等技术问题的反馈。
   language: 'zh-CN'
   category: 'Technology'
-  image: 'https://jysperm.me/avatars/v5.png'
+  image: 'https://dn-ye7uL3uc.qbox.me/9a1cf4205da4272b.png'
   keywords:
     - '彩排'
     - '王子亭'
@@ -18,20 +21,26 @@ episodes:
   -
     no: 1
     guid: 1-Free-Software
-    title: '自由软件和自由软件许可证'
+    title: '自由软件和自由软件许可证（试播）'
     enclosure: 'https://dn-ye7uL3uc.qbox.me/6fae7988a59b4bb0.m4a'
     length: 55300185
-    duration: 2922
+    duration: 1762
     publishedAt: '2016-08-02T15:20:15.255Z'
     authors:
       - '王子亭'
     description: |
       <p>我作为一个内容创作者和一名软件工程师、以及一个「政治正确」的人，一直比较关注著作权和自由软件相关的话题。为了准备本期播客我也翻看了中文互联网上大部分相关的资料，以及常见自由软件许可证的条款原文。</p>
-      <p>本期的内容包括：什么是自由软件、Copyleft、GPL 家族、什么是衍生作品、GPL 在法律上的现状、非 Copyleft 许可证、CC 许可证、CLA、著作权和专利的区别。</p>
+      <p>本期的内容包括：什么是自由软件、Copyleft、GPL 家族、什么是衍生作品、GPL 在法律上的现状、非 Copyleft 许可证、CC 许可证、CLA、著作权和专利的区别等。</p>
       <p>参考链接：</p>
       <ul>
         <li><a href="http://choosealicense.com/">choosealicense.com</a></li>
-        <li><a href="https://creativecommons.org/">creativecommons.org</a></li>
         <li><a href="https://www.gnu.org/philosophy/free-sw.html">GNU: 什么是自由软件</a></li>
-        <li><a href="https://jysperm.me">王子亭</a></li>
+        <li><a href="https://zh.wikipedia.org/wiki/GNU%E9%80%9A%E7%94%A8%E5%85%AC%E5%85%B1%E8%AE%B8%E5%8F%AF%E8%AF%81">维基百科：GNU通用公共许可协议</a></li>
+        <li><a href="https://www.gnu.org/philosophy/why-not-lgpl.zh-cn.html">GNU: 为什么不在你的下一个函数库中使用 Library GPL</a></li>
+        <li><a href="http://web.archive.org/web/20101214233906/http://ffmpeg.org/shame.html">FFmpeg: Hall of Shame</a></li>
+        <li><a href="https://creativecommons.org/">creativecommons.org</a></li>
+        <li><a href="https://cla.github.com/">GitHub CLA</a></li>
+        <li><a href="https://zh.wikipedia.org/wiki/%E8%91%97%E4%BD%9C%E6%AC%8A">维基百科：著作权</a></li>
+        <li><a href="https://jysperm.me">王子亭的博客（主持人）</a></li>
       </ul>
+      <p>欢迎向 feedback@caipai.fm 发送反馈，在试播期间我们希望听到任何有关播客内容的意见，以及关于录音或剪辑等技术问题的反馈。本期播客以 CC 署名、非商业使用、禁止演绎发布，即你可以以非商业的目的自由地使用和分发本期播客，但在分发过程中你不能够对它进行修改或剪辑，并且需要提供指向 caipai.fm 的链接。</p>
