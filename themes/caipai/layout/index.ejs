@@ -67,7 +67,7 @@
                 Download
               </a> |
               <%= (episode.length / 1024000).toFixed(1) %>MiB
-              | <%= episode.authors.join() %>
+              | <%= episode.authors.join() %> | <%= episode.publishedAt %>
             </p>
           </div>
         <% }) %>

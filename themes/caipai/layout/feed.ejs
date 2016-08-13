@@ -27,7 +27,7 @@
         <link>https://caipai.fm/#episode<%= episode.no %></link>
         <guid isPermaLink="true"><%= episode.guid %></guid>
         <author><%= episode.authors.join() %></author>
-        <pubDate><%= episode.authors.publishedAt %></pubDate>
+        <pubDate><%= episode.publishedAt %></pubDate>
         <enclosure type="audio/x-m4a" url="<%= episode.enclosure %>" length="<%= episode.length %>"></enclosure>
         <itunes:duration><%= episode.duration %></itunes:duration>
       </item>
