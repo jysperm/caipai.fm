@@ -19,6 +19,29 @@ channel:
 
 episodes:
   -
+    no: 2
+    guid: 2-Pomodoro
+    title: '番茄工作法（试播）'
+    enclosure: 'https://dn-ye7uL3uc.qbox.me/ef416b9b223820e4.m4a'
+    length: 37287391
+    duration: 1198
+    publishedAt: 'Sun, 21 Aug 2016 19:15:21 +0800'
+    authors:
+      - '王子亭'
+    description: |
+      <p>我的上一份工作就是维护一个叫「番茄土豆」的番茄工作法软件，因此我对番茄工作法有着比较深入的了解，在番茄土豆工作的过程中自己也在实践番茄工作法，也接触到了很多使用番茄工作法的用户。</p>
+      <p>本期的内容包括：什么是 GTD 方法、番茄工作法具体有哪些内容、这些方法如何改善你的工作效率、番茄工作法适合哪些人、不适合哪些人、为什么要使用番茄工作法软件以及番茄土豆的广告等。</p>
+      <p>参考链接：</p>
+      <ul>
+        <li><a href="http://fanqiegongzuofa.com/fan-qie-gong-zuo-fa-tu-jie-suo-jian-ban/">番茄工作法简明教程</a></li>
+        <li><a href="https://www.amazon.cn/gp/product/B004O9F71K/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B004O9F71K&linkCode=as2&tag=jysperm07-23">《番茄工作法图解》</a></li>
+        <li><a href="https://www.zhihu.com/question/23580338">知乎：番茄工作法为什么会这么火？</a></li>
+        <li><a href="https://pomotodo.com/">番茄土豆</a></li>
+        <li><a href="https://jysperm.me">王子亭的博客（主持人）</a></li>
+      </ul>
+      <p>欢迎向 feedback@caipai.fm 发送反馈，在试播期间我们希望听到任何有关播客内容的意见，以及关于录音或剪辑等技术问题的反馈。本期播客以 CC 署名、非商业使用、禁止演绎发布，即你可以以非商业的目的自由地使用和分发本期播客，但在分发过程中你不能够对它进行修改或剪辑，并且需要提供指向 caipai.fm 的链接。</p>
+
+  -
     no: 1
     guid: 1-Free-Software
     title: '自由软件和自由软件许可证（试播）'
