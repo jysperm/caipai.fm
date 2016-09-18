@@ -19,6 +19,35 @@ channel:
 
 episodes:
   -
+    no: 3
+    guid: 2-Password
+    title: '密码与互联网安全（试播）'
+    enclosure: 'https://dn-ye7uL3uc.qbox.me/8a794cb1de97528e.m4a'
+    length: 87329690
+    duration: 2804
+    publishedAt: 'Sat, 17 Sep 2016 00:21:07 +0800'
+    authors:
+      - '王子亭'
+    description: |
+      <p>我一直都对密码学的应用有着很大的兴趣 —— 但我感兴趣的不是原理，而是如何将前辈们发明的算法应用到日常生活中；我使用着诸如比特币和 GPG 这样基于密码学的软件，也在不断地追求着理论上的「安全」，虽然有些小题大做，但我也乐在其中。</p>
+      <p>本期的内容包括常见的现代密码学算法（对称加密、公钥加密、散列）、如何使用密码分级、两步认证等概念和技术来管理互联网账户的密码、端到端加密是如何保证通讯安全的、什么是密码学账户等。</p>
+      <p>参考链接：</p>
+      <ul>
+        <li><a href="https://www.amazon.cn/gp/product/B00GX5EX1S/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00GX5EX1S&linkCode=as2&tag=jysperm07-23">《应用密码学：协议、算法与 C 源程序》</a></li>
+        <li><a href="https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A0%81%E5%AD%A6">维基百科：密码学</a></li>
+        <li><a href="https://jysperm.me/2014/02/1476/">王子亭的笔记：散列算法的使用场景</a></li>
+        <li><a href="http://keepass.info/">KeePass</a></li>
+        <li><a href="https://www.v2ex.com/t/301410">V2EX: 国产的密码管理软件，我就问你敢不敢用！</a></li>
+        <li><a href="https://tools.ietf.org/html/rfc6238">TOTP（基于时间的一次性密码）</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Universal_2nd_Factor">Wikipedia: Universal 2nd Factor</a></li>
+        <li><a href="https://www.apple.com/cn/business/docs/iOS_Security_Guide.pdf">iOS 安全保护白皮书</a></li>
+        <li><a href="https://www.wosign.com/report/wosign_incidents_report_09042016.pdf">WoSign Incidents Report</a></li>
+        <li><a href="https://www.yubico.com/products/yubikey-hardware/">Yubikey</a></li>
+        <li><a href="https://jysperm.me">王子亭的博客（主持人）</a></li>
+      </ul>
+      <p>欢迎向 feedback@caipai.fm 发送反馈，在试播期间我们希望听到任何有关播客内容的意见，以及关于录音或剪辑等技术问题的反馈。本期播客以 CC 署名、非商业使用、禁止演绎发布，即你可以以非商业的目的自由地使用和分发本期播客，但在分发过程中你不能够对它进行修改或剪辑，并且需要提供指向 caipai.fm 的链接。</p>
+
+  -
     no: 2
     guid: 2-Pomodoro
     title: '番茄工作法（试播）'
