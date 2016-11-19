@@ -19,6 +19,42 @@ channel:
 
 episodes:
   -
+    no: 4
+    guid: 4-About-Me
+    title: '关于我：王子亭'
+    enclosure: 'https://dn-ye7ul3uc.qbox.me/19234a8e857716e52636.m4a'
+    length: 30099579
+    duration: 1242
+    publishedAt: 'Sat, 19 Nov 2016 20:21:56 +0800'
+    authors:
+      - '王子亭'
+    description: |
+      <p>说起来在前三期的播客里我甚至没有介绍过我自己，告诉大家我是谁，所以准备用这一整期来向大家介绍一下我 —— 王子亭。</p>
+      <p>本期的内容包括我退学的经历、我的业余项目、我学习的方式和方向、我的个人品牌、我的价值观等。</p>
+      <p>参考链接：</p>
+      <ul>
+        <li><a href="https://github.com/Hangzhou-Node-Party/slides">Node Patry 杭州</a></li>
+        <li><a href="https://leancloud.cn/">LeanCloud</a></li>
+        <li><a href="https://pomotodo.com/">番茄土豆</a></li>
+        <li><a href="https://zh.wikipedia.org/zh/%E6%AF%94%E7%89%B9%E5%B8%81">维基百科：比特币</a></li>
+        <li><a href="https://tox.chat/">Tox（去中心化即时通讯）</a></li>
+        <li><a href="http://rpvhost.net/">RP 主机（已关闭）</a></li>
+        <li><a href="https://github.com/HackPlan/RootPanel">RootPanel</a></li>
+        <li><a href="https://atom-china.org/">Atom 中文社区</a></li>
+        <li><a href="https://www.amazon.cn/gp/product/B01M0EHQ43/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B01M0EHQ43&linkCode=as2&tag=jysperm07-23">《SRE：Google 运维解密》</a></li>
+        <li><a href="http://pidan.cat/">皮蛋的博客</a></li>
+        <li><a href="http://doufu.cat/">豆腐的博客</a></li>
+        <li><a href="https://jysperm.me/2002/08/20020829/">第一天上学（博客）</a></li>
+        <li><a href="https://jysperm.me/2015/12/maintain-a-fans-group/">建立一个自己的粉丝团是怎样的体验（博客）</a></li>
+        <li><a href="https://jysperm.me/2016/06/why-not-traditional-medicine/">为什么我不相信中医（博客）</a></li>
+        <li><a href="https://jysperm.me">王子亭的博客</a></li>
+        <li><a href="https://www.zhihu.com/people/jysperm">王子亭的知乎</a></li>
+        <li><a href="https://twitter.com/jysperm">王子亭的 Twitter</a></li>
+        <li><a href="https://github.com/jysperm">王子亭的 GitHub</a></li>
+      </ul>
+      <p>欢迎向 feedback@caipai.fm 发送反馈，包括有关播客内容的意见，以及关于录音或剪辑等技术问题。本期播客以 CC 署名、非商业使用、禁止演绎发布，即你可以以非商业的目的自由地使用和分发本期播客，但在分发过程中你不能够对它进行修改或剪辑，并且需要提供指向 caipai.fm 的链接。</p>
+
+  -
     no: 3
     guid: 2-Password
     title: '密码与互联网安全（试播）'
